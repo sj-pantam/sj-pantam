@@ -1,16 +1,13 @@
-### Hi there 👋
+# Sujan Pantam
 
-<!--
-**sj-pantam/sj-pantam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+Hey everyone 👋! My name is Sujan. Here is a little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🐌 I'm a 2nd year computer science (BS) student at University of California, Santa Cruz
+
+• 🖥️ Programming for Fun Teacher & Founder : Taught kids programming basics, problem solving, real world problems, and collaboration.
+
+• 🦾 Very versatile and adaptable to any new situations/work 
+
+I also have my own portfolio website you can check out. I also have some projects here on Github, I hope they interest you!
